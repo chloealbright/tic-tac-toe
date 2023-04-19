@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Retro Tic-Tac-Toe
+
+* [Retro Tic-Tac-Toe Preview - Watch Video] (https://www.loom.com/share/9d4fceb93f334f39b4b07eb3df80291f)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
